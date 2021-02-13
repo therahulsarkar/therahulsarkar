@@ -26,7 +26,7 @@
 
 <div>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
-  <img src ="./images/express.png" alt="express logo" width="8%" title='Express'/>
+  <img src ="./images/express.png" alt="express logo" width="10%" title='Express'/>
   <img src ="./images/mongodb.svg" alt="D3 logo" width="8%" title='MongoDB'/>
   <img src ="./images/socket-io.svg" alt="Socket-io logo" width="8%" title='Socket-io'/>
   <img src ="./images/jwt.svg" alt="JWT logo" width="8%" title='JWT'/>
