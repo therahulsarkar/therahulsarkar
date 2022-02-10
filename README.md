@@ -63,7 +63,7 @@
   <img src ="./images/vercel.png" alt="Vercel logo" width="6%" title='Vercel'/> 
    <img src ="./images/netlify.png" alt="Netlify logo" width="6%" title='Netlify'/> 
    <img src ="./images/heroku.png" alt="Heroku logo" width="6%" title='Heroku'/> 
-   <img src ="./images/githubaction.svg" alt="Githubaction logo" width="6%" title='Githubaction'/> 
+   <img src ="./images/githubaction.png" alt="Githubaction logo" width="6%" title='Githubaction'/> 
 </div>
 
   
@@ -80,7 +80,6 @@
    <img src ="./images/yarn.svg" alt="Yarn logo" width="6%" title='Yarn'/> 
    <img src ="./images/jest.png" alt="Jest logo" width="6%" title='Jest'/> 
   <img src ="./images/puppet.png" alt="Puppeteer logo" width="6%" title='Puppeteer'/> 
-  <img src ="./images/jest.png" alt="Jest logo" width="6%" title='Jest'/> 
    <img src ="./images/babel.png" alt="Babel logo" width="6%" title='Babel'/> 
 </div>
 
