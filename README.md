@@ -31,8 +31,8 @@
 <div>
   <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
   <img src ="./images/express.png" alt="express logo" width="12%" title='Express'/>
-  <img src ="./images/mongodb.png" alt="MongoDB logo" width="10%" title='MongoDB'/>
-    <img src ="./images/firebase.png" alt="Firebase logo" width="10%" title='Firebase'/>
+  <img src ="./images/mongo.png" alt="MongoDB logo" width="10%" title='MongoDB'/>
+    <img src ="./images/firebase.png" alt="Firebase logo" width="6%" title='Firebase'/>
   <img src ="./images/socket-io.svg" alt="Socket-io logo" width="7%" title='Socket-io'/>
   <img src ="./images/jwt.svg" alt="JWT logo" width="6%" title='JWT'/>
 </div>
