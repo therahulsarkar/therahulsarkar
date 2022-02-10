@@ -63,6 +63,7 @@
   <img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/>
   <img src ="./images/eslint.svg" alt="ESLint logo" width="7%" title='ESLint'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="6%" title='Nodemon'/> 
+  <img src ="./images/webpack.png" alt="Webpack logo" width="6%" title='Webpack'/> 
 </div>
 
 
