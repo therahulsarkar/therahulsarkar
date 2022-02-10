@@ -1,4 +1,4 @@
-# Hi 👋 !
+# Hello 👋 !
 
 ## A web2.0 developer who's diving deep into web3.0
 
