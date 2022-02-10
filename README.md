@@ -17,9 +17,9 @@
   <img src ="./images/jquery.png" alt="Jquery logo" width="8%" title='Jquery'/>
   <img src ="./images/chartjs.svg" alt="chartjs logo" width="8%" title='Chartjs'/>
         
-<!--   <img src ="./images/d3.svg" alt="D3 logo" width="8%" title='D3.js'/>
+<!--   <img src ="./images/d3.svg" alt="D3 logo" width="8%" title='D3.js'/> --> 
   <img src ="./images/react.svg" alt="react logo" width="8%" title='React'/>
-  <img src ="./images/redux.svg" alt="redux logo" width="8%" title='Redux'/> --> 
+  <img src ="./images/redux.svg" alt="redux logo" width="8%" title='Redux'/>
 <div>
 
 ### Backend Technologies
