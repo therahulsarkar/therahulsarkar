@@ -18,6 +18,7 @@
 
   <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
   <img src ="./images/nextjs.png" alt="Next.js logo" width="6%" title='Next.js'/>
+   <img src ="./images/rr.png" alt="React Router logo" width="6%" title='React Router'/>
     <img src ="./images/redux.svg" alt="redux logo" width="6%" title='Redux'/>
   <img src ="./images/chartjs.svg" alt="chartjs logo" width="6%" title='Chartjs'/>
         
@@ -55,6 +56,17 @@
    <img src ="./images/sushiswap.png" alt="Sushiswap logo" width="6%" title='Sushiswap'/>
 </div>
   
+  ### Deployment & CI/CD
+
+<div>
+
+  <img src ="./images/vercel.png" alt="Vercel logo" width="6%" title='Vercel'/> 
+   <img src ="./images/netlify.png" alt="Netlify logo" width="6%" title='Netlify'/> 
+   <img src ="./images/heroku.png" alt="Heroku logo" width="6%" title='Heroku'/> 
+   <img src ="./images/githubaction.svg" alt="Githubaction logo" width="6%" title='Githubaction'/> 
+</div>
+
+  
 ### Tools
 
 <div>
@@ -66,6 +78,10 @@
   <img src ="./images/webpack.png" alt="Webpack logo" width="6%" title='Webpack'/> 
    <img src ="./images/npm.png" alt="npm logo" width="6%" title='npm'/> 
    <img src ="./images/yarn.svg" alt="Yarn logo" width="6%" title='Yarn'/> 
+   <img src ="./images/jest.png" alt="Jest logo" width="6%" title='Jest'/> 
+  <img src ="./images/puppet.png" alt="Puppeteer logo" width="6%" title='Puppeteer'/> 
+  <img src ="./images/jest.png" alt="Jest logo" width="6%" title='Jest'/> 
+   <img src ="./images/babel.png" alt="Babel logo" width="6%" title='Babel'/> 
 </div>
 
 
