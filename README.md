@@ -50,6 +50,9 @@
     <img src ="./images/alchemy.png" alt="Alchemy logo" width="6%" title='Alchemy'/>
     <img src ="./images/pinata.png" alt="Pinata logo" width="6%" title='Pinata'/>
     <img src ="./images/truffle.svg" alt="Truffle logo" width="6%" title='Truffle'/>
+  <img src ="./images/polygon.png" alt="Polygon logo" width="6%" title='Polygon'/>
+  <img src ="./images/uniswap.png" alt="Uniswap logo" width="6%" title='Uniswap'/>
+   <img src ="./images/sushiswap.png" alt="Sushiswap logo" width="6%" title='Sushiswap'/>
 </div>
   
 ### Tools
