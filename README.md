@@ -14,7 +14,7 @@
 
   <img src ="./images/tailwindcss.svg" alt="Tailwin logo" width="8%" title='Tailwind'/>
   <img src ="./images/bulma.svg" alt="Bulma logo" width="6%" title='Bulma'/>
-  <img src ="./images/jquery.png" alt="Jquery logo" width="8%" title='Jquery'/>
+  <img src ="./images/nextjs.png" alt="Next.js logo" width="8%" title='Next.js'/>
   <img src ="./images/chartjs.svg" alt="chartjs logo" width="8%" title='Chartjs'/>
         
 <!--   <img src ="./images/d3.svg" alt="D3 logo" width="8%" title='D3.js'/> --> 
@@ -37,13 +37,13 @@
 <div>
   <img src ="./images/ethereum.png" alt="Ethereum logo" width="8%" title='Ethereum'/>
   <img src ="./images/solidity.svg" alt="Solidity logo" width="12%" title='Solidity'/>
-  <img src ="./images/bitcoin.png" alt="Bitcoin logo" width="10%" title='Bitcoin'/>
+  <img src ="./images/bitcoin1.png" alt="Bitcoin logo" width="10%" title='Bitcoin'/>
   <img src ="./images/ipfs.png" alt="IPFS logo" width="7%" title='IPFS'/>
-  <img src ="./images/pinata.svg" alt="Pinata logo" width="6%" title='Pinata'/>
-    <img src ="./images/infura.svg" alt="Infura logo" width="6%" title='Infura'/>
+  <img src ="./images/pinata.png" alt="Pinata logo" width="6%" title='Pinata'/>
+    <img src ="./images/infura.png" alt="Infura logo" width="6%" title='Infura'/>
     <img src ="./images/ganache.svg" alt="Ganache logo" width="6%" title='Ganache'/>
-    <img src ="./images/alchemy.svg" alt="Alchemy logo" width="6%" title='Alchemy'/>
-    <img src ="./images/pinata.svg" alt="Pinata logo" width="6%" title='Pinata'/>
+    <img src ="./images/alchemy.png" alt="Alchemy logo" width="6%" title='Alchemy'/>
+    <img src ="./images/pinata.png" alt="Pinata logo" width="6%" title='Pinata'/>
     <img src ="./images/truffle.svg" alt="Truffle logo" width="6%" title='Truffle'/>
 </div>
   
