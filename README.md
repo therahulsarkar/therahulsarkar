@@ -35,11 +35,16 @@
   ### Web.3.0 
 
 <div>
-  <img src ="./images/nodejs.svg" alt="Node logo" width="8%" title='Nodejs'/>
-  <img src ="./images/express.png" alt="express logo" width="12%" title='Express'/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="10%" title='MongoDB'/>
-  <img src ="./images/socket-io.svg" alt="Socket-io logo" width="7%" title='Socket-io'/>
-  <img src ="./images/jwt.svg" alt="JWT logo" width="6%" title='JWT'/>
+  <img src ="./images/ethereum.png" alt="Ethereum logo" width="8%" title='Ethereum'/>
+  <img src ="./images/solidity.svg" alt="Solidity logo" width="12%" title='Solidity'/>
+  <img src ="./images/mongodb.svg" alt="Bitcoin logo" width="10%" title='Bitcoin'/>
+  <img src ="./images/ipfs.png" alt="IPFS logo" width="7%" title='IPFS'/>
+  <img src ="./images/pinata.svg" alt="Pinata logo" width="6%" title='Pinata'/>
+    <img src ="./images/infura.svg" alt="Infura logo" width="6%" title='Infura'/>
+    <img src ="./images/ganache.svg" alt="Ganache logo" width="6%" title='Ganache'/>
+    <img src ="./images/alchemy.svg" alt="Alchemy logo" width="6%" title='Alchemy'/>
+    <img src ="./images/pinata.svg" alt="Pinata logo" width="6%" title='Pinata'/>
+    <img src ="./images/truffle.svg" alt="Truffle logo" width="6%" title='Truffle'/>
 </div>
   
 ### Tools
