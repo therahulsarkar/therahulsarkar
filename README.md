@@ -35,9 +35,9 @@
   ### Web.3.0 
 
 <div>
-  <img src ="./images/ethereum.png" alt="Ethereum logo" width="6%" title='Ethereum'/>
-  <img src ="./images/solidity.svg" alt="Solidity logo" width="8%" title='Solidity'/>
-  <img src ="./images/bitcoin1.png" alt="Bitcoin logo" width="8%" title='Bitcoin'/>
+  <img src ="./images/ethereum.png" alt="Ethereum logo" width="4%" title='Ethereum'/>
+  <img src ="./images/solidity.svg" alt="Solidity logo" width="6%" title='Solidity'/>
+  <img src ="./images/bitcoin1.png" alt="Bitcoin logo" width="7%" title='Bitcoin'/>
   <img src ="./images/ipfs.png" alt="IPFS logo" width="7%" title='IPFS'/>
   <img src ="./images/pinata.png" alt="Pinata logo" width="6%" title='Pinata'/>
     <img src ="./images/infura.png" alt="Infura logo" width="6%" title='Infura'/>
