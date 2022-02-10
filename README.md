@@ -64,6 +64,8 @@
   <img src ="./images/eslint.svg" alt="ESLint logo" width="7%" title='ESLint'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="6%" title='Nodemon'/> 
   <img src ="./images/webpack.png" alt="Webpack logo" width="6%" title='Webpack'/> 
+   <img src ="./images/npm.png" alt="npm logo" width="6%" title='npm'/> 
+   <img src ="./images/yarn.png" alt="Yarn logo" width="6%" title='Yarn'/> 
 </div>
 
 
