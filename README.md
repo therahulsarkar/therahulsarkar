@@ -37,7 +37,7 @@
   <img src ="./images/jwt.svg" alt="JWT logo" width="6%" title='JWT'/>
 </div>
 
-  ### Web.3.0 
+  ### Web 3.0 
 
 <div>
   <img src ="./images/ethereum.png" alt="Ethereum logo" width="4%" title='Ethereum'/>
