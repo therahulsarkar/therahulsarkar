@@ -20,7 +20,7 @@
   <img src ="./images/nextjs.png" alt="Next.js logo" width="6%" title='Next.js'/>
    <img src ="./images/rr.png" alt="React Router logo" width="6%" title='React Router'/>
     <img src ="./images/redux.svg" alt="redux logo" width="6%" title='Redux'/>
-  <img src ="./images/chartjs.svg" alt="chartjs logo" width="6%" title='Chartjs'/>
+  <img src ="./images/chartjs.svg" alt="chartjs logo" width="8%" title='Chartjs'/>
         
 <!--   <img src ="./images/d3.svg" alt="D3 logo" width="8%" title='D3.js'/> --> 
 
