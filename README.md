@@ -92,3 +92,5 @@
 ---
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=therahulsarkar&theme=dark&hide_border=true&border_radius=5" alt="Rahul" /></p>
  <p align="center"><img src= https://github-readme-stats.vercel.app/api?username=therahulsarkar&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true alt="Rahul" /></p>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
