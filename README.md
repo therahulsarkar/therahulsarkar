@@ -93,4 +93,4 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=therahulsarkar&theme=dark&hide_border=true&border_radius=5" alt="Rahul" /></p>
 
   
-  [![Rahul's GitHub stats]( https://github-readme-stats.vercel.app/api?username=therahulsarkar&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)](https://github.com/therahulsarkar)
+<!--   [![Rahul's GitHub stats]( https://github-readme-stats.vercel.app/api?username=therahulsarkar&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)](https://github.com/therahulsarkar) -->
