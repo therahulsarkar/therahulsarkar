@@ -64,7 +64,7 @@
    <img src ="./images/netlify.png" alt="Netlify logo" width="6%" title='Netlify'/> 
    <img src ="./images/heroku.png" alt="Heroku logo" width="6%" title='Heroku'/> 
    <img src ="./images/githubaction.png" alt="Githubaction logo" width="6%" title='Githubaction'/> 
-  <img src ="./images/docker.png" alt="Docker logo" width="6%" title='Docker'/> 
+  <img src ="./images/docker2.png" alt="Docker logo" width="6%" title='Docker'/> 
 </div>
 
   
