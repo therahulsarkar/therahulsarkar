@@ -5,11 +5,11 @@
 ### Frontend Technologies
 
 <div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="2%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="2%" title='CSS3'/>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
     <img src ="./images/sass.svg" alt="Sass logo" width="3%" title='Sass'/>
     <img src ="./images/tailwindcss.svg" alt="Tailwin logo" width="4%" title='Tailwind'/>
-    <img src ="./images/bulma.svg" alt="Bulma logo" width="2%" title='Bulma'/>
+    <img src ="./images/bulma.svg" alt="Bulma logo" width="3%" title='Bulma'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="3%" title='Bootstrap'/>
 
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
