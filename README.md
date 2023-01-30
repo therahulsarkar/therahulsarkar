@@ -12,15 +12,15 @@
     <img src ="./images/bulma.svg" alt="Bulma logo" width="3%" title='Bulma'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="3%" title='Bootstrap'/>
 
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="6%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="6%" title='ES6'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
 
 
-  <img src ="./images/react.svg" alt="react logo" width="6%" title='React'/>
-  <img src ="./images/nextjs.png" alt="Next.js logo" width="6%" title='Next.js'/>
-   <img src ="./images/rr.png" alt="React Router logo" width="6%" title='React Router'/>
-    <img src ="./images/redux.svg" alt="redux logo" width="6%" title='Redux'/>
-  <img src ="./images/chartjs.svg" alt="chartjs logo" width="8%" title='Chartjs'/>
+  <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
+  <img src ="./images/nextjs.png" alt="Next.js logo" width="4%" title='Next.js'/>
+   <img src ="./images/rr.png" alt="React Router logo" width="4%" title='React Router'/>
+    <img src ="./images/redux.svg" alt="redux logo" width="4%" title='Redux'/>
+  <img src ="./images/chartjs.svg" alt="chartjs logo" width="4%" title='Chartjs'/>
         
 <!--   <img src ="./images/d3.svg" alt="D3 logo" width="8%" title='D3.js'/> --> 
 
