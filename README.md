@@ -29,7 +29,7 @@
 
 ### Backend Technologies
 
-<div
+<div style="background-color: #fff"
 
 <img src ="./images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/> 
 <img src ="./images/express.png" alt="express logo" width="8%" title='Express'/>
