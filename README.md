@@ -30,16 +30,14 @@
 ### Backend Technologies
 
 <div
-     <table>
-  <tr> 
- <td> <img src ="./images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/> </td>
- <td> <img src ="./images/express.png" alt="express logo" width="8%" title='Express'/> </td>
- <td> <img src ="./images/mongo.png" alt="MongoDB logo" width="5%" title='MongoDB'/> </td>
-  <td>  <img src ="./images/firebase.png" alt="Firebase logo" width="5%" title='Firebase'/> </td>
- <td> <img src ="./images/socket-io.svg" alt="Socket-io logo" width="5%" title='Socket-io'/> </td>
- <td> <img src ="./images/jwt.svg" alt="JWT logo" width="4%" title='JWT'/> </td>
-  </tr>  
-    </table>
+
+<img src ="./images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/> 
+<img src ="./images/express.png" alt="express logo" width="8%" title='Express'/>
+ <img src ="./images/mongo.png" alt="MongoDB logo" width="5%" title='MongoDB'/>
+  <img src ="./images/firebase.png" alt="Firebase logo" width="5%" title='Firebase'/>
+ <img src ="./images/socket-io.svg" alt="Socket-io logo" width="5%" title='Socket-io'/>
+<img src ="./images/jwt.svg" alt="JWT logo" width="4%" title='JWT'/> 
+
   
 </div>
 
