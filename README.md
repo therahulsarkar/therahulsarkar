@@ -46,7 +46,7 @@
 <div>
   <img src ="./images/ethereum.png" alt="Ethereum logo" width="3%" title='Ethereum'/>
   <img src ="./images/solidity.svg" alt="Solidity logo" width="4%" title='Solidity'/>
-  <img src ="./images/bitcoin1.png" alt="Bitcoin logo" width="5%" title='Bitcoin'/>
+  <img src ="./images/bitcoin1.png" alt="Bitcoin logo" width="4%" title='Bitcoin'/>
   <img src ="./images/ipfs.png" alt="IPFS logo" width="4%" title='IPFS'/>
   <img src ="./images/pinata.png" alt="Pinata logo" width="4%" title='Pinata'/>
     <img src ="./images/infura.png" alt="Infura logo" width="4%" title='Infura'/>
