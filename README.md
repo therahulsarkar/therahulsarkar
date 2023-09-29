@@ -93,7 +93,7 @@
 -->
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=therahulsarkar&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=therahulsarkar&theme=dark"/>
 
   
 <!--   [![Rahul's GitHub stats]( https://github-readme-stats.vercel.app/api?username=therahulsarkar&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)](https://github.com/therahulsarkar) -->
