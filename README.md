@@ -93,7 +93,8 @@
 -->
 
 ---
-<img src="https://streak-stats.demolab.com/?user=therahulsarkar&theme=dark"/>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=therahulsarkar&theme=dark" alt="Rahul" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=therahulsarkar&theme=dark)](https://git.io/streak-stats)
   
 <!--   [![Rahul's GitHub stats]( https://github-readme-stats.vercel.app/api?username=therahulsarkar&count_private=true&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)](https://github.com/therahulsarkar) -->
